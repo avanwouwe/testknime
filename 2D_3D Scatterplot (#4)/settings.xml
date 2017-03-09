@@ -60,11 +60,7 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="IDLE"/>
-<config key="nodecontainer_message">
-<entry key="type" type="xstring" value="WARNING"/>
-<entry key="message" type="xstring" value="No columns to visualize are available! Please refer to the NodeDescription to find out why!"/>
-</config>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <entry key="factory" type="xstring" value="org.erlwood.knime.nodes.graph.NGraphNodeFactory"/>
 <entry key="node-name" type="xstring" value="2D/3D Scatterplot"/>
 <entry key="node-bundle-name" type="xstring" value="Erlwood Knime Open Source Core"/>
@@ -77,11 +73,11 @@
 <entry key="node-feature-version" type="xstring" value="3.3.0.v201611292037"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="2D/3D Scatterplot"/>
-<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="hasContent" type="xboolean" value="true"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="139cd512-f4c9-4d1c-9b05-374cb175a56a"/>
 </config>
 </config>
